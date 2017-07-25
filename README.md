@@ -5,4 +5,4 @@ Downloads a random clip from the TV show Friends and transcodes audio to an mp3 
 2. ```cd friendster```
 3. ```export YOUKEY=<your youtube api key>```
 4. ```npm install -g```
-5. ```friendster -q (good, bad, shit, just fucking garbage)```
+5. ```friendster -q <good, bad, shit, just fucking garbage>```
