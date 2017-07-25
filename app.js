@@ -31,5 +31,5 @@ if(program.quality){
     }
   })
 } else {
-  console.log('Please tell me how shitty you want your friends to be.')
+  console.log('Please tell me how shitty you want your Friends to be.')
 }
