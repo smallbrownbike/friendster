@@ -25,7 +25,7 @@ if(program.quality){
       .format('mp3')
       .output('./friendster.mp3')
       .on('end', () => {
-        console.log('Your friends are done downloading.')
+        console.log('Your Friends are done downloading.')
       })
       .run()
     }
